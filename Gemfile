@@ -39,3 +39,5 @@ gem 'jquery-rails'
 # gem 'ruby-debug'
 
 gem 'devise'
+gem 'simple_form'
+gem 'thin'
