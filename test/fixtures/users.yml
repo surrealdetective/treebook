@@ -3,3 +3,10 @@ alex:
   last_name: "Au"
   email: "thefifth@gmail.com"
   profile_name: "thefifth"
+
+dan:
+  first_name: "Dan"
+  last_name: "Au"
+  email: "dan@gmail.com"
+  profile_name: "danau"
+  
